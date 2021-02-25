@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Order</key>
+    <string>Labelary</string>
+    <key>Company</key>
+    <string>RP COMERCIO DE ATACADISTA ELETRONICOS LTDA</string>
+    <key>Email</key>
+    <string>venda@rpprinterbrasil.com.br</string>
+    <key>Signature</key>
+    <data>qDRh4KRWTNtNB+yMakKiJ+59yRHI49oyBfDZD7fEsauwBimRCm5ed8qMUYQMaqtRjNlGpVSzVHefAxPhhaaRcWNwX9h69SfRPgp3MfUC+Aha5SiGtHybPGr9zDruUkrzx4ocao6EVKFnzcubw+eaczjo3b39cV8vBwn8OnMAERE=</data>
+    <key>Product</key>
+    <string>Labelary (1 Year)</string>
+    <key>Quantity</key>
+    <string>1</string>
+    <key>Timestamp</key>
+    <string>Tue, 16 Feb 2021 20:01:40 -0500</string>
+    <key>Name</key>
+    <string>Wagner Santos</string>
+  </dict>
+</plist>
